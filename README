@@ -1,0 +1,6 @@
+# HOW TO USE
+
+0. change your username to jeff
+1. stick archive.plist in ~/Library/LaunchAgents
+2. add the bash_alias to your ~/.bash_profile
+3. add res to your PATH

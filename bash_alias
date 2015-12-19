@@ -1,0 +1,7 @@
+function t() {
+        dir="$HOME/tmp/$1"
+        mkdir -p "$dir"
+        touch "$dir"
+        cd "$dir"
+}
+
